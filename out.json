@@ -1,0 +1,7020 @@
+[
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7812181,
+        "lng": -122.4080695
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78263807989272,
+          "lng": -122.4068081701073
+        },
+        "southwest": {
+          "lat": 37.77993842010727,
+          "lng": -122.4095078298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "87add680d64eca20d835e79426b9c3ccc99e37ed",
+    "name": "Covo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2522,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108861499663254972612/photos\">COVO</a>"
+        ],
+        "photo_reference": "CmRaAAAAKd9qRdBCaN8mjZQK6YIYxrAcLGGjTKH69MkG2arEDDLrhNQNWa-KzZeSGxF_TUA2q8Rxk8Bw_Wq3eK494MNYFehYxLYsgOB00wFsLzeDjm0mKak4lE6Vyg94U_bvfw8vEhAH_jBNiFvlslp6nL1_B_xLGhRCnuV5wRkXoTchA9HoTucrCy0lLQ",
+        "width": 5190
+      }
+    ],
+    "place_id": "ChIJD9VVEYSAhYARTSgyXv9kXTw",
+    "plus_code": {
+      "compound_code": "QHJR+FQ SoMa, San Francisco, CA",
+      "global_code": "849VQHJR+FQ"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJD9VVEYSAhYARTSgyXv9kXTw",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 223,
+    "vicinity": "981 Mission St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7825836,
+        "lng": -122.4112523
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78396672989272,
+          "lng": -122.4096097701073
+        },
+        "southwest": {
+          "lat": 37.78126707010728,
+          "lng": -122.4123094298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d267a044924eb2a3b5b2f962bbcc29b1aab0cee",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2559,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110232846298620942425/photos\">WeWork Golden Gate</a>"
+        ],
+        "photo_reference": "CmRaAAAAVa8qewiDmHZM7U8lZE_EZXxyVVUkTsFDpYE0OrltPAzptjv1gJrVBC9U_wOGPFtUSwDz-0OT6Imjw6tSjCyDVCYkgZyxgPm6Vmt2O_pNPw9AeFJG5FqXFjW-0su8cUmeEhAgmH-muDo4qLotoAoS3i3dGhTCOQf6nFn97MARS0sXj7sdKrIQdA",
+        "width": 3838
+      }
+    ],
+    "place_id": "ChIJczqSGoWAhYARaC2poGrR5xk",
+    "plus_code": {
+      "compound_code": "QHMQ+2F Tenderloin, San Francisco, CA",
+      "global_code": "849VQHMQ+2F"
+    },
+    "rating": 4.5,
+    "reference": "ChIJczqSGoWAhYARaC2poGrR5xk",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 87,
+    "vicinity": "25 Taylor St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7822064,
+        "lng": -122.4098919
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78365837989272,
+          "lng": -122.4086453201073
+        },
+        "southwest": {
+          "lat": 37.78095872010728,
+          "lng": -122.4113449798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "41b12d4c0259683ae298996e31e03d3aa0487da8",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102770188715134703898/photos\">Jermaine Ellis</a>"
+        ],
+        "photo_reference": "CmRaAAAAW3c8WEtmDMxAGDYZ8blj_uyhOQymrZhP0FrQE3zc3bl_Om3d6nDXNO_g17jGHeVcXOAWPXoHYvxtDaaK29KOJg8hAFNBkXwR4PVpgUF-5wZj6xHReVYBeiD-sbMVjwJTEhChM6CebXbhS8TwWhrTCYYkGhRjpBwS9DIOI62IYbwNvmPHWHM3KQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ6_-DAIWAhYARxYQlPDoC7FQ",
+    "plus_code": {
+      "compound_code": "QHJR+V2 SoMa, San Francisco, CA",
+      "global_code": "849VQHJR+V2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6_-DAIWAhYARxYQlPDoC7FQ",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "995 Market St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7735263,
+        "lng": -122.4159061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77483132989272,
+          "lng": -122.4146127201073
+        },
+        "southwest": {
+          "lat": 37.77213167010728,
+          "lng": -122.4173123798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "82a4e32f1d6752b5e223a1e00662e523246575c2",
+    "name": "PARISOMA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102226055290644551047/photos\">PARISOMA</a>"
+        ],
+        "photo_reference": "CmRaAAAAl2WgO2pEHM6PiX5r2SWKwg8yxH1AsrJkNu7vfFH4RzR5F7fY3Q544mu-4yFBM7up6RxLNjXFCqNIdwEcBRCRsQI1V32bHBF2AIFL6Bp2mPcy7rUnDvrANqj-Vg1ONXudEhDOcv3OCpOyo0lSgaMMcdNwGhTM0MLOyTb-MXE95wOGCPjGC9Vg1w",
+        "width": 2400
+      }
+    ],
+    "place_id": "ChIJhdHOg52AhYARIz7wkmgff7Y",
+    "plus_code": {
+      "compound_code": "QHFM+CJ SoMa, San Francisco, CA",
+      "global_code": "849VQHFM+CJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJhdHOg52AhYARIz7wkmgff7Y",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "169 11th St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7818116,
+        "lng": -122.4104478
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78322452989272,
+          "lng": -122.4091750701073
+        },
+        "southwest": {
+          "lat": 37.78052487010728,
+          "lng": -122.4118747298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4e697fedeae7bcb72f8aa510b4aca104660b5e02",
+    "name": "Freespace",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJu2BG_YSAhYARAvCPHskyQ7k",
+    "plus_code": {
+      "compound_code": "QHJQ+PR SoMa, San Francisco, CA",
+      "global_code": "849VQHJQ+PR"
+    },
+    "rating": 5,
+    "reference": "ChIJu2BG_YSAhYARAvCPHskyQ7k",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "1011 Market St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7780395,
+        "lng": -122.4122042
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77943602989271,
+          "lng": -122.4109143201073
+        },
+        "southwest": {
+          "lat": 37.77673637010727,
+          "lng": -122.4136139798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c0492ebcd8b2f8e35ab2a45cc9cc4ce62f5c14e7",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118239995464999103604/photos\">WeWork</a>"
+        ],
+        "photo_reference": "CmRaAAAAfSnYUJTibWZGBkE0kIlS9emcn-HQiGyVRNCr74_b3dCt8P6G4Nv7Y91gV8nlDYAC0GOI0fcss2GGtU_Jzce6XttGVrI5tVapnb5HcQB74hqAZi4c0aHGdjOyuH5ylh3vEhDox6j1nkEihQP-EzEABaFOGhRPPaKN2buMWmy-hFnj-oBK4vM3lQ",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJNYfwSIOAhYARGmfw6nQJ_Fc",
+    "plus_code": {
+      "compound_code": "QHHQ+64 SoMa, San Francisco, CA",
+      "global_code": "849VQHHQ+64"
+    },
+    "rating": 4.5,
+    "reference": "ChIJNYfwSIOAhYARGmfw6nQJ_Fc",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "1161 Mission St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7843465,
+        "lng": -122.4058661
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78562792989273,
+          "lng": -122.4046101701073
+        },
+        "southwest": {
+          "lat": 37.78292827010728,
+          "lng": -122.4073098298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e73a25c728c549dd38e17ca84040039334f39566",
+    "name": "Bespoke",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115938495699579665899/photos\">J S</a>"
+        ],
+        "photo_reference": "CmRaAAAAXQg0juq7yrK6lQdx2RjDZ7G6x1AgUy9DkrRkTfsTlUBHQtK2h7wKw2xI9jw8WFkfWZqcXhTF4KWKsxXV3-W1peaRKvaScv3f05BJxvs3ipxF-V34J7RDjjeVFWY2A4bMEhCK6vamuOtKOuWEzm18adA5GhTMr8DTDCCsTgqc1JLSmuNursRNfg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfziobIaAhYARswvrs0joumk",
+    "plus_code": {
+      "compound_code": "QHMV+PM SoMa, San Francisco, CA",
+      "global_code": "849VQHMV+PM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJfziobIaAhYARswvrs0joumk",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "845 Market St Suite 450, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7737085,
+        "lng": -122.4174912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77513772989272,
+          "lng": -122.4162503701072
+        },
+        "southwest": {
+          "lat": 37.77243807010728,
+          "lng": -122.4189500298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f7b0a66ae3174a8c32eb20eaabaa563f8da3c98e",
+    "name": "Starfish Mission - Emerging Tech Coworking Space",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107028211473692951986/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAASb60FLsVcUf_mK2Li4KwTlaTJ03JHaGwwgIbAo2pWs-OTRAzBP4ayjVIbNQLKFXSpCSjou2PzUuCn_cWWZWEjYXXy4JKlSKEKtter6G5-LTxz2bdgDREaXp3H4yFdVEqEhA6CZLIje1HwyAr0iAMYy5SGhRW6-xmFGbq9xgYBFijulqGeXYlpg",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJoYz_6J2AhYAR3SjVbhwamrQ",
+    "plus_code": {
+      "compound_code": "QHFM+F2 SoMa, San Francisco, CA",
+      "global_code": "849VQHFM+F2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJoYz_6J2AhYAR3SjVbhwamrQ",
+    "scope": "GOOGLE",
+    "types": [
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "1535 Mission St Suite A, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7668161,
+        "lng": -122.4197079
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.76818447989272,
+          "lng": -122.4184389201073
+        },
+        "southwest": {
+          "lat": 37.76548482010728,
+          "lng": -122.4211385798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ced0e12216656d8ceafb4b3c9d3d727a027a1caa",
+    "name": "Impact Hub San Francisco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113255991228375758381/photos\">jesse weber</a>"
+        ],
+        "photo_reference": "CmRaAAAA3K_XY6v1SDVrdlORUEEgQ6Bd4uvzDNdz9KbdFJB2-LZIlNKC2QyW9IyO5XHJrRI4VlsfnRpnFIaERXRAyCQ6xyq2kpMT99rn-gDiSx5Ft12oFJDNDCJOE5wNogi3ZFeqEhDuMlx6ub3fItGvDeJSPJEEGhQ8G2CxOmJMfyi1HDN_lfPpdtqdzg",
+        "width": 3036
+      }
+    ],
+    "place_id": "ChIJx1n2Obp_j4ARz55H5Sk2DS8",
+    "plus_code": {
+      "compound_code": "QH8J+P4 Mission District, San Francisco, CA",
+      "global_code": "849VQH8J+P4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJx1n2Obp_j4ARz55H5Sk2DS8",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "1885 Mission St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7749947,
+        "lng": -122.4200378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77615777989273,
+          "lng": -122.4186200201073
+        },
+        "southwest": {
+          "lat": 37.77345812010728,
+          "lng": -122.4213196798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e5b5b1b7f34943ffa1f2aa2df03611e5f5663722",
+    "name": "Anchor Coworking Space",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101269588597026380459/photos\">Sabrina Ferguson</a>"
+        ],
+        "photo_reference": "CmRaAAAAZjurkgD82R3kbI2lkgWPp5knf99bBmKs4s4v7wcZ087KAi41elnJTQQCRkKV1toOjbi9kK-wMpNjPYFBPoMcA5A3T_edPM0_qHUaQR0-KvYihsfl9KjysMqY5sbBwb7sEhCIIhfLcKzOElsBtGwxAEpbGhTy_uu5TjahjL7EoeuNp1ViwAv8NQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJOU4E7Z6AhYARJ2d3NI-sm4M",
+    "plus_code": {
+      "compound_code": "QHFH+XX Civic Center, San Francisco, CA",
+      "global_code": "849VQHFH+XX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJOU4E7Z6AhYARJ2d3NI-sm4M",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "1540 Market St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7770283,
+        "lng": -122.4011036
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77842177989272,
+          "lng": -122.3998111701072
+        },
+        "southwest": {
+          "lat": 37.77572212010728,
+          "lng": -122.4025108298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "34e583512dda5ece48f17d37ed79ba6abb257383",
+    "name": "SHARED",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114129349993649839688/photos\">SHARED</a>"
+        ],
+        "photo_reference": "CmRaAAAAHAAk7y81fu09K75VIBSKJ15KLaajr5OIV5OVRrSOQBfuWs9sLZIpXo8Ya49V0ccmM1MIQhKIC8dSan2bRkRgh736UPwEuShr7uL9t9GKtpNBG70YfjL1nKMpXlxxHZmkEhAPjHTqBD55zhEXiT_cNrpEGhTmWwintHX9yUsJSItKRqEAukGFpw",
+        "width": 3500
+      }
+    ],
+    "place_id": "ChIJaX0ySdV_j4ARqCh9w8fhUV8",
+    "plus_code": {
+      "compound_code": "QHGX+RH SoMa, San Francisco, CA",
+      "global_code": "849VQHGX+RH"
+    },
+    "rating": 4.5,
+    "reference": "ChIJaX0ySdV_j4ARqCh9w8fhUV8",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "739 Bryant St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.787571,
+        "lng": -122.40472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78903902989273,
+          "lng": -122.4033958201072
+        },
+        "southwest": {
+          "lat": 37.78633937010728,
+          "lng": -122.4060954798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7c25486ed5578902f19b1ee93c5c122c220dcea1",
+    "name": "TechSpace San Francisco Coworking Space",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 906,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105447344152090032859/photos\">TechSpace</a>"
+        ],
+        "photo_reference": "CmRaAAAAYeJaLwj7xW4cWOrXtY0XvJvTlSThULFaij0BxJKlOrUMvmBWr9DXg1NXdpMIbLMIcL4OBu5p89nIzhhtaMAiowAYhZgTZcK_E9hPVvphqFrVjhmXPg3orimUjCVlAqNNEhAROlr6-Y21CCDvpuq6Pt7-GhQ3LK1JJcUeVZUVHKjc2b05vpuHCQ",
+        "width": 1360
+      }
+    ],
+    "place_id": "ChIJDc0zX4iAhYARRZLXbgzch0k",
+    "plus_code": {
+      "compound_code": "QHQW+24 Financial District, San Francisco, CA",
+      "global_code": "849VQHQW+24"
+    },
+    "rating": 4.3,
+    "reference": "ChIJDc0zX4iAhYARRZLXbgzch0k",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "77 Geary St 5th floor, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7865239,
+        "lng": -122.4021727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78782887989273,
+          "lng": -122.4008795701073
+        },
+        "southwest": {
+          "lat": 37.78512922010728,
+          "lng": -122.4035792298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "957729223aac4cd371980d4886c3c35165faa64a",
+    "name": "Spaces Mission and 3rd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113043986187906437677/photos\">\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u0440\u0438\u0442\u0443\u043b\u0430</a>"
+        ],
+        "photo_reference": "CmRaAAAArABRpFhY79vQh0s4yWf9-YLysRntpxJB3MBXeIrQ9vdb33kK9i6guUidlfj0edkO-I65ujyvDNfeZrwjGbDRSK-3b2Wyelw9yP4J672fK1L7hPzX7gpqVHpJf6qJ46PgEhBy7e-IqUfshLOLfucGJqpPGhQWMbZXrzrXq2he_pOuk45lBNf4Mg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfVT95IeAhYAR3fG0oUl5aTQ",
+    "plus_code": {
+      "compound_code": "QHPX+J4 SoMa, San Francisco, CA",
+      "global_code": "849VQHPX+J4"
+    },
+    "rating": 3.9,
+    "reference": "ChIJfVT95IeAhYAR3fG0oUl5aTQ",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "95 3rd St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7745616,
+        "lng": -122.3984402
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77587312989272,
+          "lng": -122.3970423201073
+        },
+        "southwest": {
+          "lat": 37.77317347010728,
+          "lng": -122.3997419798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bab712e4ad8b6bf4bf59d1c2c4463ea5308ea72b",
+    "name": "SOMAcentral",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104905087638857317196/photos\">SOMAcentral</a>"
+        ],
+        "photo_reference": "CmRaAAAAoDxutns_c9x7qdxP0ZlVU8F4HSffoYEn0E9VBhJIHSu16b4QxBm9q8TN7c0ik3lp4WM4uB06SehxFewgfow3IYS_zdKT3RAYQHGF_vXmgF5B4eoEIPBiXG8UnUN-wfxwEhCci3GPBYQg4GvIk7yRnxDoGhTmDiQun8rU8HTZtOFW4aotjerOvg",
+        "width": 5472
+      }
+    ],
+    "place_id": "ChIJ8Uf6wNd_j4ARBy5cTt7Ppc4",
+    "plus_code": {
+      "compound_code": "QJF2+RJ SoMa, San Francisco, CA",
+      "global_code": "849VQJF2+RJ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ8Uf6wNd_j4ARBy5cTt7Ppc4",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "450 Townsend St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.782966,
+        "lng": -122.4222867
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78421262989272,
+          "lng": -122.4209662201073
+        },
+        "southwest": {
+          "lat": 37.78151297010728,
+          "lng": -122.4236658798928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2ac17959b92fae7db13a959095d8368aeabf844a",
+    "name": "Startup Basecamp Co-living",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3471,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116600342880821253330/photos\">StartupBasecamp org</a>"
+        ],
+        "photo_reference": "CmRaAAAARRYEMb2jBo110ApdDGHHddVbdvFYJ8G-GXzNBYMpVwinIx33hgjjaCArxTfsA9cnGz9dQtc40iJzgFwois3E-uLhHyvefJXuY44rPRzY65mkkej0IZkrin4OFErpIwFsEhCo5Nth4qaYFM5QUUWIWX4TGhTzi863Ak1Egu42Ins1Cf9-1BSz-g",
+        "width": 5336
+      }
+    ],
+    "place_id": "ChIJF_ewtrqAhYARZsGH41eguRw",
+    "plus_code": {
+      "compound_code": "QHMH+53 Western Addition, San Francisco, CA",
+      "global_code": "849VQHMH+53"
+    },
+    "rating": 4.7,
+    "reference": "ChIJF_ewtrqAhYARZsGH41eguRw",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "900 Franklin St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7869394,
+        "lng": -122.3996049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78823112989272,
+          "lng": -122.3983295701073
+        },
+        "southwest": {
+          "lat": 37.78553147010727,
+          "lng": -122.4010292298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c86a4ceed6075608cfec534c0300d0185e314ed7",
+    "name": "Werqwise",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100807329289378043227/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAhTmS6OZNgl9mLA1dcKgSkVCbMiBmrB3goHU30j_MEEkJCWmb6QOSLnLMgTB79BT9G_vrEZJtak2NZ5LMtmbAFOI1ODl9vptFccmWnoQC5dZMXa7-HwJ0rMZhFdCnepB7EhB0zqfZAoQ5LTa-ztB4cEEHGhTrN6PVR_MHCBMgqjU2dT-h_9IvXA",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJVVXFO32AhYARTYsa0EesEoo",
+    "plus_code": {
+      "compound_code": "QJP2+Q5 SoMa, San Francisco, CA",
+      "global_code": "849VQJP2+Q5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVVXFO32AhYARTYsa0EesEoo",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "149 New Montgomery St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7879797,
+        "lng": -122.3972011
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78924257989273,
+          "lng": -122.3957402201073
+        },
+        "southwest": {
+          "lat": 37.78654292010728,
+          "lng": -122.3984398798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aedaeb21fe80e9038a06b15715449c8e4c1205cf",
+    "name": "Eco-Systm - Coworking and Office space San Francisco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 996,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105444357674719322307/photos\">Ecosystm</a>"
+        ],
+        "photo_reference": "CmRaAAAA_lTGzDXceBdr_TR8stuKcvOw6cV2hMRc2ejWCXYzm5MUR1zYBV5MvUUfP87A-n-JpqfP2qDEks3V6uZVBv0D609dSHpHDxhMH_iFwgB-13W8DaQwr69-ups_O5q6so4bEhCv16gYoPItaLb-YQ64_l3tGhSIZNstcOmKC8PAdJx2FAan2gftOQ",
+        "width": 1804
+      }
+    ],
+    "place_id": "ChIJD-06tHyAhYARmdxj7hO2v5c",
+    "plus_code": {
+      "compound_code": "QJQ3+54 SoMa, San Francisco, CA",
+      "global_code": "849VQJQ3+54"
+    },
+    "rating": 4.8,
+    "reference": "ChIJD-06tHyAhYARmdxj7hO2v5c",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "540 Howard St 2nd Floor, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.77679,
+        "lng": -122.416406
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77830297989271,
+          "lng": -122.4152579201073
+        },
+        "southwest": {
+          "lat": 37.77560332010727,
+          "lng": -122.4179575798928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9d3dd4765b66dfcf81faa16ccfe686cf3752c021",
+    "name": "Runway",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105042615376898842896/photos\">Runway Incubator</a>"
+        ],
+        "photo_reference": "CmRaAAAA7g0tn4scHEyL5H68bwSycyn-BakUdDKwoSbyqsk99XFk3j0vYu0cc9wooWLxDDk-xdcP0cNiU-favUQeCKVW5VWQDYkU1rNT8xzTP2Yc5Fr9NAHWsj7IfB4cgEvBFb9JEhB8psv7IL3Z5WVXWZWshQOwGhSj6NwtAvg93WlzrqkgpflygMDP5Q",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJEz_lGJyAhYARFZghGpsz2v8",
+    "plus_code": {
+      "compound_code": "QHGM+PC SoMa, San Francisco, CA",
+      "global_code": "849VQHGM+PC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJEz_lGJyAhYARFZghGpsz2v8",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "1355 Market St #488, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7951109,
+        "lng": -122.4007168
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79638722989273,
+          "lng": -122.3993539201073
+        },
+        "southwest": {
+          "lat": 37.79368757010729,
+          "lng": -122.4020535798928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b1a5794c90fc566a787e139e8d789d70203d6628",
+    "name": "ConnectionsSF",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106254796514556292484/photos\">Nader Al-Naji</a>"
+        ],
+        "photo_reference": "CmRaAAAAzBFaU6yVoKHz1yOsEjJ-C-eKdIlnHPCoa3d72jrxp3eScznDSIH5I6uid2nj5xb1-GIHAeYx6aWyrg-5OZ6tzeikQdBObX81YFI4VsnlZkv9nqn-igtrDzHDbxX3LzASEhB7x1Qm6TIqnTP7g91j66T6GhTv2yTR7iV4POGxHzszND25SZK0Sw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJmwmQKGCAhYAR0kC2hIABo4U",
+    "plus_code": {
+      "compound_code": "QHWX+2P Financial District, San Francisco, CA",
+      "global_code": "849VQHWX+2P"
+    },
+    "rating": 4.1,
+    "reference": "ChIJmwmQKGCAhYAR0kC2hIABo4U",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "424 Clay St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7871617,
+        "lng": -122.3990827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78857807989272,
+          "lng": -122.3976473201073
+        },
+        "southwest": {
+          "lat": 37.78587842010727,
+          "lng": -122.4003469798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9500fa81dc5d67f87d03a2faa0be86649b0d6073",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114627388017498654992/photos\">WeWork SOMA</a>"
+        ],
+        "photo_reference": "CmRaAAAALgo-JPvlL-zutkXtLXufnBcQvrBwsQVwgQy_PmC9Eij2NC_7Q6gePhI_rxKXoo1VR3qN-adqivfm-Ozpp_-RcjCqdG0BVypsNcu2XTHv3w7pfMoC2M05KAihj2NiDBU7EhCzm9d-HWB-Z6f6SmBQ7o1hGhRnwg3qt79yCa_okzh5fdZFFLjPiA",
+        "width": 3799
+      }
+    ],
+    "place_id": "ChIJd9OTJX2AhYARn9wZkFt5oAg",
+    "plus_code": {
+      "compound_code": "QJP2+V9 SoMa, San Francisco, CA",
+      "global_code": "849VQJP2+V9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJd9OTJX2AhYARn9wZkFt5oAg",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112,
+    "vicinity": "156 2nd St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7965059,
+        "lng": -122.4023466
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79788757989272,
+          "lng": -122.4010037701073
+        },
+        "southwest": {
+          "lat": 37.79518792010728,
+          "lng": -122.4037034298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "24fafd4fa83892bae46d77a2c5e0481e55d83a61",
+    "name": "The VAULT",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 553,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114417785030639221372/photos\">The VAULT</a>"
+        ],
+        "photo_reference": "CmRaAAAAf2WfHynLdW5hlsoQabbn2fRIH9kVrYjxo763h7ywh0tcybzbzQ6zW1GKrkinSvhGJBPNnWKNoXBMHP_vU6rE04gGvdUzF9vLJ-Q2s7ER6JZE8B3bP-7QQNpCTfKKclEjEhCcxOa8n8BiANaPNoC1Co0pGhRWL-0ProhQgdNuCsXWI-0o2RQ0cw",
+        "width": 830
+      }
+    ],
+    "place_id": "ChIJ2TOQTPWAhYARxohdYnqiIns",
+    "plus_code": {
+      "compound_code": "QHWX+J3 Financial District, San Francisco, CA",
+      "global_code": "849VQHWX+J3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ2TOQTPWAhYARxohdYnqiIns",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "415 Jackson St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7829139,
+        "lng": -122.394128
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78421132989272,
+          "lng": -122.3927121701073
+        },
+        "southwest": {
+          "lat": 37.78151167010727,
+          "lng": -122.3954118298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6088d44f301ee5c6e87763b70f7a4c20516a414e",
+    "name": "Sandbox Suites",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112743112055394052009/photos\">Sandbox Suites</a>"
+        ],
+        "photo_reference": "CmRaAAAAEhTKESIXUHr4fr_rjsSUxYG-owKWRNnSNqVnuuMIKUmpHQk7G9BsJuXQvv6Ed8QocQ9ro1POMn1r-vs94zfoTKhWQVN77_iECvx1y8oEE-0MK7rpkx5VLYy2BaCB-txrEhAGUO3px1nefvtnsKKeoWIjGhRFqh0N155z5tVpbykvSMxb2y-4aQ",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJLYNhF3mAhYARXuvp1zKLutc",
+    "plus_code": {
+      "compound_code": "QJM4+58 SoMa, San Francisco, CA",
+      "global_code": "849VQJM4+58"
+    },
+    "rating": 4.1,
+    "reference": "ChIJLYNhF3mAhYARXuvp1zKLutc",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "404 Bryant St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7929158,
+        "lng": -122.4046905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79422887989272,
+          "lng": -122.4032354201073
+        },
+        "southwest": {
+          "lat": 37.79152922010728,
+          "lng": -122.4059350798928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "46fe817c7304f3acc868428f8345dacc23eb58b4",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107767997496171286508/photos\">pat6001</a>"
+        ],
+        "photo_reference": "CmRaAAAAiONJF230yqAPypYD0eTls8yQzGX-VLPkmCR9Q5ldc5p4Ukin_ahz4ULVU7Rb3ub38Ih0ZVMDGnduiMEi9uHx4f3ya0wpXdXN0ay3PcN3aGfl0dyBHLFc8Abl7s_9LdbEEhDbCQ82V5DM7Sw4g6Zj120WGhT2klYU1qriKPxXfY6oAoHrlJKtag",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJA9hNrouAhYAR_qHCyyRPqfM",
+    "plus_code": {
+      "compound_code": "QHVW+54 Financial District, San Francisco, CA",
+      "global_code": "849VQHVW+54"
+    },
+    "rating": 4.7,
+    "reference": "ChIJA9hNrouAhYAR_qHCyyRPqfM",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 162,
+    "vicinity": "600 California St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7868853,
+        "lng": -122.4037824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78836117989272,
+          "lng": -122.4025940201073
+        },
+        "southwest": {
+          "lat": 37.78566152010728,
+          "lng": -122.4052936798928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bada5b359690f43b527d87aa3ac6ee3892da8f76",
+    "name": "DG717",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111887485421584212796/photos\">Paul Kittiwongsunthorn</a>"
+        ],
+        "photo_reference": "CmRaAAAAiwGQsabL_F-TgBm5vJ_bCAWEDwR7JWx1XyZ7239IQ2NtfYVlaM5paPDG4fgFFLrgNfFFIQdpQAdpb8Yro-U8znZVWdeJQLpMSt_niXpLOPQwKHCkbd9Q-WBq4IDM5kbxEhAWGUn7-nu_n8MmfChF243IGhR6H5YaMMLRxLZkyJ8bTNL8tuqoQw",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJ7_pTY4iAhYARrSbb9exZAac",
+    "plus_code": {
+      "compound_code": "QHPW+QF SoMa, San Francisco, CA",
+      "global_code": "849VQHPW+QF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ7_pTY4iAhYARrSbb9exZAac",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "717 Market St #100, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.789635,
+        "lng": -122.434211
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79099747989272,
+          "lng": -122.4327612701072
+        },
+        "southwest": {
+          "lat": 37.78829782010727,
+          "lng": -122.4354609298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1bb67f10bfa4abc68d2181d9402e4665c5458813",
+    "name": "CANOPY Pacific Heights",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107701738804209078593/photos\">Aaron Brako</a>"
+        ],
+        "photo_reference": "CmRaAAAA2c2TEqyqns2mv4Yaba39JhZUq-YG8yo5K6zauXD17KYs1gjjD1grX4Byj_SSbA_xeUW_hzgIB2rwP5Tk33Fp0P_veDBRZfLWpklMK0uL1d9YFqpWNlXJ9Yw0uQ9FjmXiEhA8HyFXV7eoBmw9DxiQY8WMGhT-VgxLDuU_gDKDhdIqYRPXhzYy6Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJtb_FOcaAhYARKyt9mRbRYz0",
+    "plus_code": {
+      "compound_code": "QHQ8+V8 Pacific Heights, San Francisco, CA",
+      "global_code": "849VQHQ8+V8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJtb_FOcaAhYARKyt9mRbRYz0",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "2193 Fillmore St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.779928,
+        "lng": -122.394881
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78124772989273,
+          "lng": -122.3934030701073
+        },
+        "southwest": {
+          "lat": 37.77854807010728,
+          "lng": -122.3961027298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "876d1ee6ba30f9fccbe5e3533c971637c8c635f7",
+    "name": "OnePiece Work - San Francisco",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110948582373538059724/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAsXyL4N4R5ZtNg3MHmNFZqjiAg1YA_0PwiF7ltYjVDSZ6v_HloSKxG6qsUoxl0XEQLXdlwz3ricExBli2qcrTPH0TnpPeEtP4fNFTnqa9ciZcRm2vm2zO4nJnJyRvcQNwEhDm3C3J8TnThGqP0H1DqelBGhQ3mxjpWP_MmR8y6UUGqz2z9gjdTg",
+        "width": 5000
+      }
+    ],
+    "place_id": "ChIJJfZ-pniAhYARwbbrqeZ7ZAU",
+    "plus_code": {
+      "compound_code": "QJH4+X2 SoMa, San Francisco, CA",
+      "global_code": "849VQJH4+X2"
+    },
+    "rating": 4.2,
+    "reference": "ChIJJfZ-pniAhYARwbbrqeZ7ZAU",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "414 Brannan St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.790703,
+        "lng": -122.402119
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79200597989273,
+          "lng": -122.4008861701073
+        },
+        "southwest": {
+          "lat": 37.78930632010728,
+          "lng": -122.4035858298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d4003493af1fadc0eb4a85345d437f95661d99f",
+    "name": "Workshop Cafe FiDi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110829492923799316359/photos\">Workshop Cafe</a>"
+        ],
+        "photo_reference": "CmRaAAAAWJezscbEsFn9de8ekgWQxiB5Nv9N0Zv2_je6ftk58Ku9hlPGJxm76rDQ1daztegP10xcM401rk6G8qLbvFS8Z-f_RWnn8fl25FF4ihlgBs7vF171w-e-readcomnRuGAEhAQg72OWP-dwi1b_M7pX7QAGhQF4HOOP3SoLt43iigtroqQr89UeA",
+        "width": 3715
+      }
+    ],
+    "place_id": "ChIJhcAyVXmAhYARTECmFduBoQw",
+    "plus_code": {
+      "compound_code": "QHRX+75 Financial District, San Francisco, CA",
+      "global_code": "849VQHRX+75"
+    },
+    "rating": 4.2,
+    "reference": "ChIJhcAyVXmAhYARTECmFduBoQw",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 759,
+    "vicinity": "180 Montgomery St #100, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7897312,
+        "lng": -122.401906
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79105662989272,
+          "lng": -122.4006809701073
+        },
+        "southwest": {
+          "lat": 37.78835697010728,
+          "lng": -122.4033806298928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5e5c40d557bbf30b35a34eb54de7c1be35d88c27",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112741823743255924883/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAVPZNFQc93_tjndoWuATLSgycb06KV08BZZtxp5bJqUYWtlvi_zR3kDAAhNTAS_hao-iZNRKkoQ_tO5IepWVB1Mf4yLNt6iXSvymi1-gfuGOdITYLi14LWurd-sanPAuNEhBvRiYXxVAYL9a2wFbR5zkmGhS02fN2VZFakQC7TQccqrEVAZfcvg",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJp_0x0YmAhYARqrWj0uvOU_E",
+    "plus_code": {
+      "compound_code": "QHQX+V6 Financial District, San Francisco, CA",
+      "global_code": "849VQHQX+V6"
+    },
+    "rating": 4.6,
+    "reference": "ChIJp_0x0YmAhYARqrWj0uvOU_E",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "44 Montgomery St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7888853,
+        "lng": -122.3981432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79011942989273,
+          "lng": -122.3967076201073
+        },
+        "southwest": {
+          "lat": 37.78741977010728,
+          "lng": -122.3994072798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f1d0d990f87b56b93fb0eba33703b81c70c0a2e2",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118284177423356362347/photos\">WeWork</a>"
+        ],
+        "photo_reference": "CmRaAAAAoPNAnsvlDrl2TwzbRMK5Ehi-W9Yg10NWLelze7y7fz9EMZvhTAWtxl9nbeK4qofbqspFlFGYbbD03i3-gk0YQdJHCjHXoB4p6GG1HpVqqJu9wCk6w9obNJlfj1mBtgbqEhA6sqd9eyPspM_GTYcvbxFIGhSUA1pwnJLrI76tyU88aPiplyVZwA",
+        "width": 3960
+      }
+    ],
+    "place_id": "ChIJD-qcL2OAhYARbtW729LFUsw",
+    "plus_code": {
+      "compound_code": "QJQ2+HP SoMa, San Francisco, CA",
+      "global_code": "849VQJQ2+HP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJD-qcL2OAhYARbtW729LFUsw",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 123,
+    "vicinity": "535 Mission St 14th floor, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.78035990000001,
+        "lng": -122.4050423
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78176957989272,
+          "lng": -122.4037656201073
+        },
+        "southwest": {
+          "lat": 37.77906992010728,
+          "lng": -122.4064652798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "520c6d4441d18c427418abaf63608c359cbcb1d6",
+    "name": "Alloy Collective",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113139256684562517081/photos\">Jose J Moreno R</a>"
+        ],
+        "photo_reference": "CmRaAAAA9zXC55zl8dNqC09Xj8bxy9N3MJt88u6Br6kYD5RKxkCw-AvHF7ZGMT7CZNQz_Gxef3k7aCenwukrkfE6nhjR3dpLJbEF0VyB_b_aTdjR-kpQGUVT4I_8NmfMCuqHBcL6EhAjGWSoS-ixiZ_VAiYvFF5MGhQvJJV2ZFmd838dI8sQNhggRyPnDg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ0-qiPIGAhYARsQWpOgn39mw",
+    "plus_code": {
+      "compound_code": "QHJV+4X SoMa, San Francisco, CA",
+      "global_code": "849VQHJV+4X"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ0-qiPIGAhYARsQWpOgn39mw",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "431 Tehama St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7929223,
+        "lng": -122.405241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79409407989272,
+          "lng": -122.4038540201073
+        },
+        "southwest": {
+          "lat": 37.79139442010728,
+          "lng": -122.4065536798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e36184b158359b88f51cefa338fc1ac908419af1",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1266,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116549837919681963362/photos\">WeWork 650 California Street</a>"
+        ],
+        "photo_reference": "CmRaAAAAnlWwVMbpRiVupk8M2cKAYfk2qOadjfLciDmcmZqvnapT3h2OrPMweWz23XuxB8vrfADnL_A_rcsr2ffWH9Ilb8-11lOpY2_bq0WP-hsOyh_OuruT7id-PqwFO4W-LXTxEhDLVW-zsjOIKpsStHd6TkDOGhSqR2NjxqFLraobqYrRNV8xWjvogQ",
+        "width": 1900
+      }
+    ],
+    "place_id": "ChIJMaYZpIuAhYAR7dTDjcBtWeY",
+    "plus_code": {
+      "compound_code": "QHVV+5W Financial District, San Francisco, CA",
+      "global_code": "849VQHVV+5W"
+    },
+    "rating": 4.6,
+    "reference": "ChIJMaYZpIuAhYAR7dTDjcBtWeY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "650 California St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7815871,
+        "lng": -122.4085589
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78303572989272,
+          "lng": -122.4073317701072
+        },
+        "southwest": {
+          "lat": 37.78033607010727,
+          "lng": -122.4100314298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bae6e096e3df3a5105cd8aafcbdde43d5a4d9c45",
+    "name": "SOSV Revolution Space",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100081670666747822651/photos\">SOSV Revolution Space</a>"
+        ],
+        "photo_reference": "CmRaAAAAK01Npc4bhZL2ryuePC4m2l8IXoNI6RgcVz81BJ0usIMBqjqGVSd6c78fm8OSdJfwTL3Ixl2jXNpoVW4sjW2J20lANdmaE0YVqltu6_5KyZ04KU-M0eaISSzKGkJguYMeEhBbGBKeoHupJMfoJAo4Ra4zGhRxnb8GXpGQrL45Aj1wKdYKvIlHXQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJBU4uRISAhYAROuptMNAYnWw",
+    "plus_code": {
+      "compound_code": "QHJR+JH SoMa, San Francisco, CA",
+      "global_code": "849VQHJR+JH"
+    },
+    "rating": 4.8,
+    "reference": "ChIJBU4uRISAhYAROuptMNAYnWw",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "479 Jessie St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.798859,
+        "lng": -122.435602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.80027747989272,
+          "lng": -122.4342640701073
+        },
+        "southwest": {
+          "lat": 37.79757782010728,
+          "lng": -122.4369637298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "eb455b3eb4e6072df9e196a191c53ccdf5a1079a",
+    "name": "AvantSpace",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 8256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103026839676348553711/photos\">Experiential</a>"
+        ],
+        "photo_reference": "CmRaAAAAEGTPsCXINpbmADmzW7T603EQJl3WCU4i6XIPh6bq3kKqAOA_g0QskV_iHQtSKX1fhzX3Y_eXKjvNLAI-2xmZxvItlTaKJECT6xa2pHTcE70HXBwLPEAiYDtBLaBDhQrvEhC4iE4ix_sNRCyptxrumPyQGhQNCx78Erg04BNeG4Hqx6_QfO-WSA",
+        "width": 5504
+      }
+    ],
+    "place_id": "ChIJ03dRnNCAhYAR5uCiW3J0mho",
+    "plus_code": {
+      "compound_code": "QHX7+GQ Cow Hollow, San Francisco, CA",
+      "global_code": "849VQHX7+GQ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ03dRnNCAhYAR5uCiW3J0mho",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "2181 Greenwich St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7950332,
+        "lng": -122.3985757
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79623047989272,
+          "lng": -122.3974751201073
+        },
+        "southwest": {
+          "lat": 37.79353082010728,
+          "lng": -122.4001747798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5a99ab00f24f378042f4e01e45596ff8a426f267",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117229842322857838727/photos\">WeWork Embarcadero Center</a>"
+        ],
+        "photo_reference": "CmRaAAAAuWcpRChqBo129UXss1qRsc99KvHtQIDgJmzars8ztDyvQZq-AmrCkbCNlu94chYRyQAYzu0VODYO64emaS6xHREYOCI1aogLY3nwbBNoxrA867eDEZEPS4TT8WpGHLjCEhD2h32Q2101LFeFr7cz74AYGhRRYuJEhVDFoU1y5ZF1Ti49Ij2RGA",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ4RVeqmGAhYARMXVpG_Pz4fE",
+    "plus_code": {
+      "compound_code": "QJW2+2H Financial District, San Francisco, CA",
+      "global_code": "849VQJW2+2H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ4RVeqmGAhYARMXVpG_Pz4fE",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "2 Embarcadero Center, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7951203,
+        "lng": -122.403357
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79651722989272,
+          "lng": -122.4019586701072
+        },
+        "southwest": {
+          "lat": 37.79381757010728,
+          "lng": -122.4046583298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d4d25cc5dcaeeefa5c81562b2207080f2837d236",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114747929488577973126/photos\">\u4e45\u7530\u53cb\u5f66</a>"
+        ],
+        "photo_reference": "CmRaAAAAJxDZh99rjH1BYmUaFY-b1qhd3zRsbclE2V50MXWAUlA_VfxsktaNLDcsSouCiTmXM6gGklNSE6B3uuvTel-rOjaFhMtYKxDv-VgYkCVaLNVooTLA-4BS4gypOndcZDB8EhDqeibDSeLrJyF-YonvyR-1GhRWE6t5RPNOY5MHDsboxx2xrDV50w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ4wbMxIqAhYARO6mDFjdw4zg",
+    "plus_code": {
+      "compound_code": "QHWW+2M Financial District, San Francisco, CA",
+      "global_code": "849VQHWW+2M"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ4wbMxIqAhYARO6mDFjdw4zg",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "655 Montgomery St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7917688,
+        "lng": -122.3944272
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79324277989272,
+          "lng": -122.3932351201072
+        },
+        "southwest": {
+          "lat": 37.79054312010727,
+          "lng": -122.3959347798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "43771c69e6d48e39d7c9877b3f9c3d1bccd6e627",
+    "name": "RocketSpace",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5430,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104441691306932666772/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAi9blWuex-NLuiscRx2KVcCpLMuc1PTFn9PGidPlsIpbVPtxm92XR7_TxAoJ6MenjDDdrXLQ7wGe4zOr0QVsCYNL23PgYxx_vNlOAyjRZQSrCXTk3PCWzOsPZR4YQqdK6EhByhQggFFAB5uNFs7ASn11TGhSbVW7KdR6tUFlKK8FrOezuv0rM_w",
+        "width": 8184
+      }
+    ],
+    "place_id": "ChIJ__8_YGSAhYAR29UiGO09S8k",
+    "plus_code": {
+      "compound_code": "QJR4+P6 SoMa, San Francisco, CA",
+      "global_code": "849VQJR4+P6"
+    },
+    "rating": 5,
+    "reference": "ChIJ__8_YGSAhYAR29UiGO09S8k",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "123 Mission St suite 1600, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.77713480000001,
+        "lng": -122.4177099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77847012989272,
+          "lng": -122.4165047201073
+        },
+        "southwest": {
+          "lat": 37.77577047010728,
+          "lng": -122.4192043798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "14df928787eea2cba1583b635352093b76b0d94e",
+    "name": "Coworker",
+    "place_id": "ChIJAQAADJyAhYARYVzKj0CUhRc",
+    "plus_code": {
+      "compound_code": "QHGJ+VW Civic Center, San Francisco, CA",
+      "global_code": "849VQHGJ+VW"
+    },
+    "rating": 0,
+    "reference": "ChIJAQAADJyAhYARYVzKj0CUhRc",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "1390 Market St #200, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7969795,
+        "lng": -122.4048602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79842207989272,
+          "lng": -122.4034798701073
+        },
+        "southwest": {
+          "lat": 37.79572242010728,
+          "lng": -122.4061795298928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e818b3c0f6ef1dc7318ef5b328481a32062c4538",
+    "name": "CANOPY Jackson Square",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108293085431951312385/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAA83mTHT9-dkuGvVtdDV_aCaxAJgrDfP5r7WRhFB-pERlXK1BzkdCvt5a7VWb-9H-LSpBBoVHJSfCyhNeBd7m1xL9O_T3NFhaoKrUEs9A9H5G3uWHmfF9zLzIjFSrX98UqEhC5-DxItbhcj5gKSD6QEmZvGhQX0AxAMV0bcW5J1m09yiIPcBvhfA",
+        "width": 2009
+      }
+    ],
+    "place_id": "ChIJsS6Z6PSAhYARALMpp8fBsQU",
+    "plus_code": {
+      "compound_code": "QHWW+Q3 Financial District, San Francisco, CA",
+      "global_code": "849VQHWW+Q3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJsS6Z6PSAhYARALMpp8fBsQU",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "595 Pacific Ave 4th Floor, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7820516,
+        "lng": -122.40049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78331667989272,
+          "lng": -122.3990400701073
+        },
+        "southwest": {
+          "lat": 37.78061702010728,
+          "lng": -122.4017397298928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "02d58fa0ff87665ced86c4735e2ffc2cd0be054c",
+    "name": "Otium CoWorking",
+    "place_id": "ChIJ___PEX6AhYARE_VH7km8hUw",
+    "plus_code": {
+      "compound_code": "QHJX+RR SoMa, San Francisco, CA",
+      "global_code": "849VQHJX+RR"
+    },
+    "rating": 0,
+    "reference": "ChIJ___PEX6AhYARE_VH7km8hUw",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "795 Folsom St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7939928,
+        "lng": -122.3996171
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79544407989272,
+          "lng": -122.3982880701073
+        },
+        "southwest": {
+          "lat": 37.79274442010728,
+          "lng": -122.4009877298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8f56c1c1f8bd271dff93b94cc705b5be456889ba",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 426,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107004034955049964184/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAyTa3gImXhhSzVQ5oR2df_rPqCeOvZ0CiqUd_hl2pxxnX8w-QjsytlbpHmSzzl2vTnu0nuw1GkBaYnpJbYDPC8AOwVD7eiwP_cNzA6cgykUWAy1Qlp_NWRrqDUVYUEAFCEhAIOvhuJWqGsxJq0JGQVf9gGhRCTd9NjBmFa4aT-B51X-AQQ3jtmw",
+        "width": 758
+      }
+    ],
+    "place_id": "ChIJeWK5Vv-BhYAREDjUHtabTvg",
+    "plus_code": {
+      "compound_code": "QJV2+H5 Financial District, San Francisco, CA",
+      "global_code": "849VQJV2+H5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJeWK5Vv-BhYAREDjUHtabTvg",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "353 Sacramento St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.8051808,
+        "lng": -122.4048559
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.80650412989272,
+          "lng": -122.4037113201073
+        },
+        "southwest": {
+          "lat": 37.80380447010728,
+          "lng": -122.4064109798928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cb5b0ba2225b47e35116f0e7325df788f4cffb82",
+    "name": "Industrious San Francisco Embarcadero",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112232649492655300879/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAiFGkJYd7W0-8WknM0bHX021h6INwJSb_89Wf1KJ37iuIXft9l7xZBrm923IIo_ZU02f8boDPDo9QsY3W1cnES28yox8YOj0tT0BFl6btGD6d2FAQROkNjF2pzcDsnoZqEhA2hLwQ9tma1POgO4SdR_10GhTDuk1Xz9bJee9WAlRExlVXBohmgw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJDW65KAuBhYARTx6k0G47bis",
+    "plus_code": {
+      "compound_code": "RH4W+33 North Beach, San Francisco, CA",
+      "global_code": "849VRH4W+33"
+    },
+    "rating": 4.9,
+    "reference": "ChIJDW65KAuBhYARTx6k0G47bis",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "1700 Montgomery St #108, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7868978,
+        "lng": -122.4036672
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78839332989273,
+          "lng": -122.4025039701073
+        },
+        "southwest": {
+          "lat": 37.78569367010729,
+          "lng": -122.4052036298928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b5503c60df6c6535cc913f80645190502c07e298",
+    "name": "Digital Garage Development LLC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115011156477883704151/photos\">Billy Bicket</a>"
+        ],
+        "photo_reference": "CmRZAAAAenemtkHSXnLA3AqFJ714sZEQXHd8aoSFF81ntbwk8RnMY8-lnxTg_FIFcgEX2bZnlnPLwasP_l8ybUB_R3dxkj4Q1zZx5JJV2eFObYWjVDtQdZ6IR0eqLLdD4C5InApdEhDvm_hqkVBzDcjAHeYqmgL3GhSGHcpP9xi1oX6xWtOCz9cf4WmgyA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJg1u6Y4iAhYARl79ckw_4Hlo",
+    "plus_code": {
+      "compound_code": "QHPW+QG SoMa, San Francisco, CA",
+      "global_code": "849VQHPW+QG"
+    },
+    "rating": 4.8,
+    "reference": "ChIJg1u6Y4iAhYARl79ckw_4Hlo",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "717 Market St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7939928,
+        "lng": -122.3996171
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79544407989272,
+          "lng": -122.3982880701073
+        },
+        "southwest": {
+          "lat": 37.79274442010728,
+          "lng": -122.4009877298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "248b1a5ed246af6545cdcf7c2aba5be7f553fa93",
+    "name": "SOMAcentral",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116972719462796923317/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAJ4nNiMww5qQF3xXDqpdMrXSEIuthwUfxtOg0xTNVkL0mQKLdpLZ-hthl_dLYf7MH7F95KrbLyeycQ4_Lmj8pPy54t0D5aL1L5g3n2djz9N8CmH45iGu6cXLYgPe0qxvjEhBiKj9T-FiozYpHxOL6Ldu6GhQLjQ5rQul1odt7U9OdJDsnTAehJQ",
+        "width": 3892
+      }
+    ],
+    "place_id": "ChIJg9lQuWGAhYARy5oSvLOTLuU",
+    "plus_code": {
+      "compound_code": "QJV2+H5 Financial District, San Francisco, CA",
+      "global_code": "849VQJV2+H5"
+    },
+    "rating": 5,
+    "reference": "ChIJg9lQuWGAhYARy5oSvLOTLuU",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "353 Sacramento St Suite 1800, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7638686,
+        "lng": -122.4650781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.76533482989272,
+          "lng": -122.4637339201073
+        },
+        "southwest": {
+          "lat": 37.76263517010727,
+          "lng": -122.4664335798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3aff33a2561621133703be9f5b6ea28b3fa4664a",
+    "name": "Known Space",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2837,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100704821961931820709/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRZAAAA9d0ZBLv8oDIetPRFlaWdnMArmISS-lqGGIpxX8_ylce9hW6S96Diz4mprAsRWgDXHstI-PqJnZTdeGord94WZc3UAlKiTmPAJztwQH80wJtGLYSKaFkbJrNLdSA6J9AGEhC_-XVuZHOJuxLxG-e7aFZuGhR4leUjYtQ-IuNp4UeJKHPiLZsfQg",
+        "width": 4256
+      }
+    ],
+    "place_id": "ChIJY2F3FVyHhYAR92AJMZQKsrs",
+    "plus_code": {
+      "compound_code": "QG7M+GX Sunset District, San Francisco, CA",
+      "global_code": "849VQG7M+GX"
+    },
+    "rating": 4.2,
+    "reference": "ChIJY2F3FVyHhYAR92AJMZQKsrs",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "649 Irving St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7896132,
+        "lng": -122.4003745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79108417989272,
+          "lng": -122.3991789701073
+        },
+        "southwest": {
+          "lat": 37.78838452010728,
+          "lng": -122.4018786298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "39c07d077751d6ef6b3016f2d66c6ab0f64f6b88",
+    "name": "Mindspace San Francisco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1668,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113316240572368298365/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAJ50IUPVPCVqHdwEOx_vSpPgRoiKJHW_YzENbxMPqk1-qHxLayBk56b8LmEGye0kUKCWhh4Sh5W5czW_Y7CbiKEYmqdWwOL9h0anE82JrsrOZ1U_XddOFxAi9_8KqqK1mEhCJARaOTawNXM1kVA3snjrdGhQ2lWybSJilmRvj_s3S5nwjRS5D9Q",
+        "width": 2500
+      }
+    ],
+    "place_id": "ChIJ1SY5AOOBhYARpyx2-yXz53M",
+    "plus_code": {
+      "compound_code": "QHQX+RV SoMa, San Francisco, CA",
+      "global_code": "849VQHQX+RV"
+    },
+    "rating": 5,
+    "reference": "ChIJ1SY5AOOBhYARpyx2-yXz53M",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "575 Market St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7992426,
+        "lng": -122.4007343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.80056207989273,
+          "lng": -122.3996122201072
+        },
+        "southwest": {
+          "lat": 37.79786242010729,
+          "lng": -122.4023118798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad347617dfe7d9d388df5a5ce0b7e30ecb2b2114",
+    "name": "Coworkyard Office Embarcadero Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ50J2nV-AhYAREmC7QdbePBg",
+    "plus_code": {
+      "compound_code": "QHXX+MP North Beach, San Francisco, CA",
+      "global_code": "849VQHXX+MP"
+    },
+    "rating": 0,
+    "reference": "ChIJ50J2nV-AhYAREmC7QdbePBg",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "840 Battery St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7614636,
+        "lng": -122.3884795
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.76280657989273,
+          "lng": -122.3871846701073
+        },
+        "southwest": {
+          "lat": 37.76010692010728,
+          "lng": -122.3898843298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3c530f4c607daef47b5585bf45d1ae25e3ff59ee",
+    "name": "Invention Hub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116740234909324540108/photos\">Ertan Dogrultan</a>"
+        ],
+        "photo_reference": "CmRZAAAAz3wJ2qj-iWqZktUMC19fqTvcHhQCI_tujkowJqrzZwoi2Tb684Pq34jaS8alEvXp3EeZLU-l2ZvSPuMxSX4NCxtrd1daikPbVeI1LpqxqhlxGcHJp60GxCQ68jFnOCAAEhDQn47EJJMNWSoVvTTW_QWSGhTqy-8GHrUF0NVTPXFPasWGu2MCHg",
+        "width": 3036
+      }
+    ],
+    "place_id": "ChIJNeZZarh_j4ARrPnirjoqUXc",
+    "plus_code": {
+      "compound_code": "QJ66+HJ Potrero Hill, San Francisco, CA",
+      "global_code": "849VQJ66+HJ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJNeZZarh_j4ARrPnirjoqUXc",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "2225 3rd St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7898162,
+        "lng": -122.3969054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79129042989273,
+          "lng": -122.3957096701073
+        },
+        "southwest": {
+          "lat": 37.78859077010728,
+          "lng": -122.3984093298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "eef5c59576ef649946f5cdf46dbc9f529f1c29b1",
+    "name": "WeWork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108357885487071288148/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAA-365_U70aDuSJnAnEMfjkDY7R4lQ7DfkvqL0t9fkRhtDs1hDAKJxaNPRO2F8ZOzWTt3Gjrqb8bFB5ZQ4ilTWteJZtxEujLehIkUCnYWuV5K9E0B7Osb6d2-7K0lwqMJxEhBNPnQYS39pKAsgkmjrWvgiGhTTBnZAufGjDPewe7jOY6xW4DdJKg",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJVVUVamOAhYAReGRxl0bTWd0",
+    "plus_code": {
+      "compound_code": "QJQ3+W6 SoMa, San Francisco, CA",
+      "global_code": "849VQJQ3+W6"
+    },
+    "rating": 4,
+    "reference": "ChIJVVUVamOAhYAReGRxl0bTWd0",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "415 Mission St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7843118,
+        "lng": -122.394425
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78567157989271,
+          "lng": -122.3931697201073
+        },
+        "southwest": {
+          "lat": 37.78297192010727,
+          "lng": -122.3958693798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e7194bc00e6b179dd816c0775757e2795501ef25",
+    "name": "Workbix",
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115552034385145560489/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAft1aWNZ-RgeKCjDGFN5tLx0irf2Qbu0teVIFGi1GkjOx9jMb-JDB_1ALhYumJf6HXBvJG8OcWNUxzzHu-VVFOUYp0fndgQ9Pm3GL6v20ZR65MWthw2tmQm7tuJDljhW9EhDTJ5HFMkjkbDKbgQgkDS3zGhR0-Pte4_LdePaR3vHyERiDZzFdFg",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ08gUXnmAhYARXq_M_LNS5ho",
+    "plus_code": {
+      "compound_code": "QJM4+P6 SoMa, San Francisco, CA",
+      "global_code": "849VQJM4+P6"
+    },
+    "rating": 0,
+    "reference": "ChIJ08gUXnmAhYARXq_M_LNS5ho",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "425 2nd St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.791226,
+        "lng": -122.3919665
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79261247989272,
+          "lng": -122.3904456701073
+        },
+        "southwest": {
+          "lat": 37.78991282010728,
+          "lng": -122.3931453298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "be9733ed3a1e39736915dd84dcf29b5486893fb9",
+    "name": "Pacific Workplaces - Office Space San Francisco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 842,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100084263644795413940/photos\">Pacific Business Centers - Office Space San Francisco</a>"
+        ],
+        "photo_reference": "CmRaAAAAY769bs4OZtR9fB0EoLgiAn6_9NqeBs9ENg5OrYLFD50OSR_5MzVS3MQR10ZbBUbaUbP7vX7Ps6Fnf3BNZtFtqUqnWVrKBtUyxBqAVev5izWJDxok-K3LhV_JzZvAB2KiEhAC1FDD-kLLrHZBpLeeJ87NGhRXdTn3jv2k3uWqw3-BWPB6M6GVRQ",
+        "width": 1123
+      }
+    ],
+    "place_id": "ChIJeQJyF2WAhYARW1kIhEQx4vM",
+    "plus_code": {
+      "compound_code": "QJR5+F6 SoMa, San Francisco, CA",
+      "global_code": "849VQJR5+F6"
+    },
+    "rating": 4.5,
+    "reference": "ChIJeQJyF2WAhYARW1kIhEQx4vM",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "201 Spear St #1100, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7859956,
+        "lng": -122.4485493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78718522989272,
+          "lng": -122.4472606201073
+        },
+        "southwest": {
+          "lat": 37.78448557010728,
+          "lng": -122.4499602798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3219c30302a868527b8ee9c2d61f47300edb74c2",
+    "name": "Work Lhts",
+    "place_id": "ChIJb-HskzSHhYARJdF3oeWlkL0",
+    "plus_code": {
+      "compound_code": "QHP2+9H Laurel Heights, San Francisco, CA",
+      "global_code": "849VQHP2+9H"
+    },
+    "rating": 4,
+    "reference": "ChIJb-HskzSHhYARJdF3oeWlkL0",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "3333 California St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.798862,
+        "lng": -122.400074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.80013917989272,
+          "lng": -122.3987048201073
+        },
+        "southwest": {
+          "lat": 37.79743952010728,
+          "lng": -122.4014044798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "81f5f1fa28aedd2f94bb2ce6738b7aef806cff51",
+    "name": "HatchToday",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101333563395942974787/photos\">Diane Brown</a>"
+        ],
+        "photo_reference": "CmRZAAAA5Mora6vCvmhVY_fvN02x7nG5Q2RxAQEk3x9VcyhoV9OEQ4Kvzs4zu-XpphI5gnaEzrzMJdF8NwB_lkRa1uuT2yOZyjBKv4oyJaRdz5i55m5tqTd90x_GNgGryaY5RHHEEhBmmpffmYQLHpvqA92RC1MqGhS3_m7Z_kFtsN5rLHB3r2H_42Xgeg",
+        "width": 3036
+      }
+    ],
+    "place_id": "ChIJJ66lsn6AhYARLSUviLKv0to",
+    "plus_code": {
+      "compound_code": "QHXX+GX North Beach, San Francisco, CA",
+      "global_code": "849VQHXX+GX"
+    },
+    "rating": 5,
+    "reference": "ChIJJ66lsn6AhYARLSUviLKv0to",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "100 Broadway, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7793615,
+        "lng": -122.4027026
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78080112989272,
+          "lng": -122.4012412201073
+        },
+        "southwest": {
+          "lat": 37.77810147010727,
+          "lng": -122.4039408798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "057157563caab09cd6da27b32eaac6ed60de2e82",
+    "name": "Bitspace360",
+    "photos": [
+      {
+        "height": 2519,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113304180834724361103/photos\">Emm Kay</a>"
+        ],
+        "photo_reference": "CmRaAAAA0FDGgdM3G5BnnS_QniHA9kgeXzuN2KaBuNA8Y0Xemzqn9WYl3dTFk3SNxYrqATOdYPkh6O5Eeeco6Qgsgp6k7qa9QuEFoLzSWrUCoeKE40JdOGxl9Y_r0ENtZ17qfQr7EhDa6q-Bbhooewf7IAY04VMIGhSu1w3dmjNAowmUf--yxndXmxWilQ",
+        "width": 6352
+      }
+    ],
+    "place_id": "ChIJrweLYICAhYARsVL6NA1YcVI",
+    "plus_code": {
+      "compound_code": "QHHW+PW SoMa, San Francisco, CA",
+      "global_code": "849VQHHW+PW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJrweLYICAhYARsVL6NA1YcVI",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "360 5th St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7761555,
+        "lng": -122.4186414
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77738357989271,
+          "lng": -122.4171378201073
+        },
+        "southwest": {
+          "lat": 37.77468392010727,
+          "lng": -122.4198374798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7e1022ed5855f28eaeb60bfd1cdd6709a8f7c1ea",
+    "name": "Birdnest",
+    "place_id": "ChIJC4I8oZ6AhYARKeahUS-_adc",
+    "plus_code": {
+      "compound_code": "QHGJ+FG Civic Center, San Francisco, CA",
+      "global_code": "849VQHGJ+FG"
+    },
+    "rating": 5,
+    "reference": "ChIJC4I8oZ6AhYARKeahUS-_adc",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1446 Market St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7948329,
+        "lng": -122.4035392
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79620097989272,
+          "lng": -122.4020199701073
+        },
+        "southwest": {
+          "lat": 37.79350132010727,
+          "lng": -122.4047196298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fdafcc423c06198b1692d044b3d1333012d41cd2",
+    "name": "DT office",
+    "place_id": "ChIJTbcA6IqAhYARQKKE_g0oK8o",
+    "plus_code": {
+      "compound_code": "QHVW+WH Financial District, San Francisco, CA",
+      "global_code": "849VQHVW+WH"
+    },
+    "rating": 0,
+    "reference": "ChIJTbcA6IqAhYARQKKE_g0oK8o",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "601 Montgomery St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7810773,
+        "lng": -122.3948692
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78238177989272,
+          "lng": -122.3934611701073
+        },
+        "southwest": {
+          "lat": 37.77968212010727,
+          "lng": -122.3961608298928
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "81316c98f6670ab4f028e8a506cfcc419b52be7e",
+    "name": "BLOCK71 San Francisco",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107976187877456682892/photos\">Mark Smith</a>"
+        ],
+        "photo_reference": "CmRaAAAAGH6Xjwp1W28G9ymVCpeikY1ZfkW90QqGPSUj98pLBlPVM6_2ZWZDWJJ19ZmS4ZK9_5jDYvdJfo1MvSrCBjoB5ZCLeXfgXRmgEuc0Y29l9RaGk0cc1qMHyvYfwREnlrUTEhAENUHnJZ6A0bdNBF_OFC5dGhT7-3XygLQ_Wf6W6-KRwt68Pk3CCQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5Z3_w3iAhYARLRFXJnJPsnE",
+    "plus_code": {
+      "compound_code": "QJJ4+C3 SoMa, San Francisco, CA",
+      "global_code": "849VQJJ4+C3"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ5Z3_w3iAhYARLRFXJnJPsnE",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "162 S Park St, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.7914251,
+        "lng": -122.4010378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79278692989273,
+          "lng": -122.3995847201073
+        },
+        "southwest": {
+          "lat": 37.79008727010728,
+          "lng": -122.4022843798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "974f4cd09027ae7c95477c545e80d1f3f25b84dd",
+    "name": "The Wing SF",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3849,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114738610517630047774/photos\">Sara Silberstang</a>"
+        ],
+        "photo_reference": "CmRaAAAAB5mFauWaLNF-t-Woo3uwLVvQ_qMykvC3BKlTePGsnS0cLJUPUKf5hrzVoPtjSibwXOMfShB7MrKNrRo1ThsEu13yq3P4oy0PRjcWU7LBCyo-Kb84guadVuJ1ZVr-arHaEhBNJGhTUNPqk2j2oG75HA1iGhR_b5JaoEL0VoAIVjVY68l25U5ODA",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJT1AuoKuBhYARVTeMrSCOcyw",
+    "plus_code": {
+      "compound_code": "QHRX+HH Financial District, San Francisco, CA",
+      "global_code": "849VQHRX+HH"
+    },
+    "rating": 3.9,
+    "reference": "ChIJT1AuoKuBhYARVTeMrSCOcyw",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "115 Sansome St Suite #200, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.76775310000001,
+        "lng": -122.4072246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.76908772989272,
+          "lng": -122.4061432201073
+        },
+        "southwest": {
+          "lat": 37.76638807010728,
+          "lng": -122.4088428798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "09cc8e27311a510cc89b7cac8c4765eff7654a11",
+    "name": "Code & Canvas",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100693386386718738662/photos\">John Yi</a>"
+        ],
+        "photo_reference": "CmRaAAAAKkudPLk8wJYzSe8ltsY8TWCqMUnv2LAJ-mcR77iGQz-G3ShcmZFN1fFrArGF2oDd6J7xK9Dn-rl5JStm7X7X1BoI6HlqTszB47s57qyEe8ci2tgfi-3Nwq8vkY91ugW_EhDqLk4EtIH37uxMwlpWa_hoGhRiFA0HS3xRBC3O99J59rh8MgHWdQ",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJiTfxCi5-j4AR_GgVP2KRH-M",
+    "plus_code": {
+      "compound_code": "QH9V+44 Mission District, San Francisco, CA",
+      "global_code": "849VQH9V+44"
+    },
+    "rating": 4.3,
+    "reference": "ChIJiTfxCi5-j4AR_GgVP2KRH-M",
+    "scope": "GOOGLE",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "151 Potrero Ave, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.8685447,
+        "lng": -122.2694208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.86991057989272,
+          "lng": -122.2679436701073
+        },
+        "southwest": {
+          "lat": 37.86721092010728,
+          "lng": -122.2706433298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "04055564435e7c29f244d4cbd48c5aeb57ccfe56",
+    "name": "CoWorking with Wisdom",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 808,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110221988934042746581/photos\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAZiN0BFLT8cN3CcFyv-FJyolCF1UXCAU90ftsVMOyaQar41oUFr4WUB9kFrHL9iWZyKCCSJwUkH6y0R0IzIYuY8MPhXHXQiqDslVXwqanW86NP_0jgF7nde2SY99WolR4EhAzCbh01kPk5JgNFFwwvwUJGhR21lfTsLdh-h-5z3M9vT4VBf2KWg",
+        "width": 1077
+      }
+    ],
+    "place_id": "ChIJ29eTYiR_hYAR0kwpE5hxj2E",
+    "plus_code": {
+      "compound_code": "VP9J+C6 Berkeley, California",
+      "global_code": "849VVP9J+C6"
+    },
+    "rating": 5,
+    "reference": "ChIJ29eTYiR_hYAR0kwpE5hxj2E",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "gym",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "2222 Harold Way, Berkeley",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 42,
+        "idx": 9061,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.864731,
+            -122.302703
+          ],
+          "name": "Berkeley-Aquatic Park, Alameda, California",
+          "url": "https://aqicn.org/city/california/alameda/berkeley-aquatic-park"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 7.4
+          },
+          "h": {
+            "v": 56.8
+          },
+          "no2": {
+            "v": 18.6
+          },
+          "o3": {
+            "v": 12.1
+          },
+          "p": {
+            "v": 1006.2
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 42
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.8
+          },
+          "w": {
+            "v": 0.2
+          },
+          "wg": {
+            "v": 2.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:42+09:00"
+        }
+      }
+    }
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 37.788684,
+        "lng": -122.401724
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79012117989272,
+          "lng": -122.4004849201073
+        },
+        "southwest": {
+          "lat": 37.78742152010728,
+          "lng": -122.4031845798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7315ac833a742e657aede9f7da102c59223be04d",
+    "name": "T-Jump Startup Hub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115735754436342759853/photos\">Jessie Mooberry</a>"
+        ],
+        "photo_reference": "CmRaAAAAkOT6wMk3hjuWPcsfVOEp4S8gCxuLhdg0PwMRAhFdCkxaNInBvaiw3vOV68Ihg9XDKKzBw2bnbP2qO06E2OGxACqAE2T1zK6HuDshy3CGT9SEQVGi007GuKlymPQrKKEhEhBZk4joc7bBswipsMTvQ2WpGhTWJsYUHMSpeBX5O7RSnU1uaCOEcg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJO65WapyAhYARbG9z6OjYxtY",
+    "plus_code": {
+      "compound_code": "QHQX+F8 SoMa, San Francisco, CA",
+      "global_code": "849VQHQX+F8"
+    },
+    "rating": 4,
+    "reference": "ChIJO65WapyAhYARbG9z6OjYxtY",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "625 Market St #200, San Francisco",
+    "pm25_info": {
+      "status": "ok",
+      "data": {
+        "aqi": 38,
+        "idx": 3900,
+        "attributions": [
+          {
+            "url": "http://www.arb.ca.gov/",
+            "name": "CARB - California Air Resources Board"
+          },
+          {
+            "url": "http://www.airnow.gov/",
+            "name": "Air Now - US EPA"
+          },
+          {
+            "url": "https://waqi.info/",
+            "name": "World Air Quality Index Project"
+          }
+        ],
+        "city": {
+          "geo": [
+            37.76595,
+            -122.39902
+          ],
+          "name": "San Francisco-Arkansas Street, San Francisco, California",
+          "url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street"
+        },
+        "dominentpol": "pm25",
+        "iaqi": {
+          "co": {
+            "v": 3.8
+          },
+          "h": {
+            "v": 59.2
+          },
+          "no2": {
+            "v": 8.4
+          },
+          "o3": {
+            "v": 20.8
+          },
+          "p": {
+            "v": 1011.4
+          },
+          "pm10": {
+            "v": 15
+          },
+          "pm25": {
+            "v": 38
+          },
+          "so2": {
+            "v": 1.5
+          },
+          "t": {
+            "v": 15.9
+          },
+          "w": {
+            "v": 4.5
+          }
+        },
+        "time": {
+          "s": "2019-11-21 12:00:00",
+          "tz": "-08:00",
+          "v": 1574337600
+        },
+        "debug": {
+          "sync": "2019-11-22T05:46:47+09:00"
+        }
+      }
+    }
+  }
+]
